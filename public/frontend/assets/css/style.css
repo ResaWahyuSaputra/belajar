@@ -9,8 +9,8 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "Open Sans", sans-serif;
-  color: #444444;
+  font-family: "Poppins", sans-serif;
+  color: #262626;
 }
 
 a {
@@ -23,7 +23,7 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Dosis", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 /*--------------------------------------------------------------
@@ -74,7 +74,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
-  font-family: "Lato", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 #header .logo a {
@@ -108,16 +108,16 @@ h1, h2, h3, h4, h5, h6 {
 .nav-menu a {
   display: block;
   position: relative;
-  color: #0f394c;
+  color: #262626;
   transition: 0.3s;
   font-size: 15px;
-  font-family: "Dosis", sans-serif;
+  font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   font-weight: 600;
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #49b5e7;
+  color: #F55751;
 }
 
 .nav-menu .drop-down ul {
@@ -323,18 +323,18 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 42px;
   font-weight: 700;
   line-height: 56px;
-  color: #0f394c;
+  color: #F55751;
   text-transform: uppercase;
 }
 
 #hero h2 {
-  color: #1c698c;
+  color: #262626;
   margin: 10px 0 0 0;
   font-size: 20px;
 }
 
 #hero .btn-get-started {
-  font-family: "Dosis", sans-serif;
+  font-family: "Poppins", sans-serif;
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
@@ -344,12 +344,12 @@ h1, h2, h3, h4, h5, h6 {
   transition: 0.5s;
   margin-top: 25px;
   color: #fff;
-  background: #49b5e7;
+  background: #F55751; /*warna jika kursor tidak di tunjukkan pada button get started*/
   text-transform: uppercase;
 }
 
 #hero .btn-get-started:hover {
-  background: #76c7ed;
+  background: #B80454; /*warna jika kursor ditunjukkan ke button akan berubah seperti itu*/
 }
 
 @media (max-width: 991px) {
@@ -611,7 +611,7 @@ section {
   font-weight: 700;
   display: block;
   color: #49b5e7;
-  font-family: "Dosis", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .counts .counters p {
@@ -1237,7 +1237,7 @@ section {
 .breadcrumbs h2 {
   font-size: 28px;
   font-weight: 400;
-  font-family: "Lato", sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 .breadcrumbs ol {
@@ -1441,7 +1441,7 @@ section {
   font-size: 14px;
   line-height: 24px;
   margin-bottom: 0;
-  font-family: "Lato", sans-serif;
+  font-family: "Poppins", sans-serif;
   color: #777777;
 }
 
