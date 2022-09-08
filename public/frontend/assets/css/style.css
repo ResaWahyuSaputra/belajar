@@ -383,8 +383,8 @@ section {
   padding: 60px 0;
 }
 
-.section-bg {
-  background-color: #f4fbfe;
+.section-bg { /*service*/
+  background-color: #FFEFEE;
 }
 
 .section-title {
@@ -411,7 +411,7 @@ section {
 .about .icon-boxes h3 {
   font-size: 28px;
   font-weight: 700;
-  color: #0f394c;
+  color: #F55751;
   margin-bottom: 15px;
 }
 
@@ -1322,7 +1322,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   border-bottom: 1px solid #eee;
-  color: #0f394c;
+  color: #262626;
 }
 
 .portfolio-details .portfolio-info ul {
