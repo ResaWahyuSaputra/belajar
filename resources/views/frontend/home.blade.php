@@ -26,7 +26,8 @@
 
       <div class="row">
         <div class="col-xl-5 col-lg-6 d-flex justify-content-center video-box align-items-stretch">
-          <a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a>
+        <img src="{{asset('frontend/assets/img/flamingo2.jpg')}}" class="img-fluid" alt="">
+          <!--a href="https://www.youtube.com/watch?v=jDDaplaOz7Q" class="venobox play-btn mb-4" data-vbtype="video" data-autoplay="true"></a-->
         </div>
 
         <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
