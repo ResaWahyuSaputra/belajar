@@ -6,7 +6,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 d-flex flex-column justify-content-center">
-        <h1>Welcome To Shenila's portfolio</h1>
+        <h1>Welcome To Shenila's portofolio</h1>
         <h2>Hi, I'm Shenila. I am a front-end developer with a strong focus on problem solving and innovation. I'm also a macchiato lover but don't really like strong coffee.</h2>
         <div><a href="#about" class="btn-get-started scrollto">Get Started</a></div>
       </div>
